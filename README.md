@@ -5,7 +5,7 @@ It uses a simple `Employee` entity with dummy data (1000 records) to showcase ef
 
 ---
 
-## 🚀 Features
+## 🚀 Features 
 - ✅ REST API for **pagination** (`page`, `size`)  
 - ✅ REST API for **sorting** (`sortBy`, `direction`)  
 - ✅ Combined **pagination + sorting** endpoint  
